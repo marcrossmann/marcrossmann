@@ -1,4 +1,6 @@
 ## Hi there 👋
+![marcrossmann's GitHub Banner](https://raw.githubusercontent.com/marcrossmann/marcrossmann/main/banner.png)
+
 
 <!--
 **marcrossmann/marcrossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
